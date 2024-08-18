@@ -1,7 +1,5 @@
 # movie-website
 
-# Movie Site
-
 In this project, a great movie website was created using html, css and js.
 
 # 🎨 Features
