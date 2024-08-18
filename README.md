@@ -14,4 +14,4 @@ In this project, a great movie website was created using html, css and js.
 - JavaScript: Dynamic properties and interactions.
 
 # Preview
-![](movie-website.gif)
+![](movie-website-gif.gif)
