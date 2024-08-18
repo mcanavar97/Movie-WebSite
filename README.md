@@ -1,3 +1,3 @@
-# Movie-WebSite
+# movie-website
 
 ![](movie-website.gif)
